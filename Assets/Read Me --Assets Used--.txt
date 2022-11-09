@@ -1,0 +1,10 @@
+To ensure this file doesn't get massive and I don't put paid assets on a public Github repo I have not included some assets and are ignored in the gitignore.
+
+To get this working download the following from the package manager:
+-Fantasy Skybox FREE
+-Dreamscape Nature : Meadows : Stylized Open World Environment
+-Surfaces Lite
+-TextMesh Pro
+
+Once they are in add them to "External Assets" folder and the game should run again :)
+

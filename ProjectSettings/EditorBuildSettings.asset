@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Path Drawer/Scenes/MainMenu.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Prototypes/PrototypeLevel.unity
+    path: Assets/Prototypes/SimpleNodeExample.unity
     guid: 2beb5402823d3404d9e96c6808133da4
   m_configObjects: {}
