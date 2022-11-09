@@ -7,7 +7,8 @@ namespace Path_Drawer.Scripts.Menus
     {
         public void OpenLevel(string sceneName)
         {
-            CommonlyUsedStaticMethods.OpenSceneWithSceneName(sceneName);
+            PanelFade pf = GameObject.FindObjectOfType<PanelFade>();
+            pf.loadLevel(sceneName);
         }
     }
 }

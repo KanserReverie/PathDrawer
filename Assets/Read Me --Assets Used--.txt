@@ -6,5 +6,9 @@ To get this working download the following from the package manager:
 -Surfaces Lite
 -TextMesh Pro
 
+Other Assets used:
+-Post Processing
+-New Input System
+
 Once they are in add them to "External Assets" folder and the game should run again :)
 
